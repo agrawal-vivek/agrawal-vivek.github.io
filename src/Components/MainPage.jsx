@@ -10,7 +10,10 @@ import Contact from "./Contact";
 const MainPage = () => {
   return (
     <div>
+      <div id="nav-menu">
       <TopNavbar />
+        </div>
+      
       <Navbar />
        <Home />
       <About />
