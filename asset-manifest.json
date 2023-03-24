@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.08f754d6.css",
-    "main.js": "/static/js/main.167d88d7.js",
+    "main.css": "/static/css/main.3dc1924d.css",
+    "main.js": "/static/js/main.971b3e98.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/vscode.png": "/static/media/vscode.9bc6e588b5f2b867a8a4.png",
     "static/media/logo.jpeg": "/static/media/logo.82bc2e16373adfc6a737.jpeg",
@@ -21,12 +21,12 @@
     "index.html": "/index.html",
     "static/media/mongodb-seeklogo.com.svg": "/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "static/media/npm.876.svg": "/static/media/npm.876.87689eab730642c86d2b01f3ef4a19e3.svg",
-    "main.08f754d6.css.map": "/static/css/main.08f754d6.css.map",
-    "main.167d88d7.js.map": "/static/js/main.167d88d7.js.map",
+    "main.3dc1924d.css.map": "/static/css/main.3dc1924d.css.map",
+    "main.971b3e98.js.map": "/static/js/main.971b3e98.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08f754d6.css",
-    "static/js/main.167d88d7.js"
+    "static/css/main.3dc1924d.css",
+    "static/js/main.971b3e98.js"
   ]
 }
