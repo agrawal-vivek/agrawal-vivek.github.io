@@ -52,7 +52,7 @@ const Home = () => {
           data-aos="fade-down-right"
           data-aos-duration="2000"
           data-aos-delay="300"
-          id="name"
+          id="user-detail-name"
         >
           Vivek Agrawal
         </h1>
