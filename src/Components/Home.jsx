@@ -32,7 +32,7 @@ const Home = () => {
         data-aos="fade-down-right"
         data-aos-duration="2000"
         data-aos-delay="300"
-        id="sonu"
+        id="vivek"
       >
         <h1
           data-aos="fade-down-right"

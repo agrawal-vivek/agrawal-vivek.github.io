@@ -11,7 +11,7 @@ const Navbar = () => {
     );
   };
   return (
-    <nav>
+    <nav id="nav-menu">
       <Tooltip
         label="Home"
         placement="bottom"
